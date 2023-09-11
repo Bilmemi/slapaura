@@ -1,3 +1,3 @@
 loadstring(game:HttpGet('https://raw.githubusercontent.com/14ms-alt/Roblox-Scripts/main/Slap%20Battles%20SlapAura.lua'))()
 
-game:GetService("StarterGui"):SetCore("SendNotification", { Title = "outdated dm me", Text = "Dc:just.azure dm me for updated version, Duration = 5 }) return end
+game:GetService("StarterGui"):SetCore("SendNotification", { Title = "outdated dm me", Text = "Discord:just.azure, Duration = 5 }) return end
