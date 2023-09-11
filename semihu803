@@ -1,3 +1,3 @@
 loadstring(game:HttpGet('https://raw.githubusercontent.com/14ms-alt/Roblox-Scripts/main/Slap%20Battles%20SlapAura.lua'))()
 
-game:GetService("StarterGui"):SetCore("SendNotification", { Title = "By semihu803", Text = "Enjoy your slap aura!", Duration = 5 }) return end
+game:GetService("StarterGui"):SetCore("SendNotification", { Title = "hello im azure dm me [just.azure]", Text = "I just wanna say this script is outdated but u still can use it.", Duration = 5 }) return end
